@@ -32,14 +32,14 @@ And that's when the hilarious romantic chaos begins. 😂❤️
       <img src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" width="101" height="142" alt="Pond Naravit Lertratkosum">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">Pond Naravit Lertratkosum</a></b><br>
+      <b>Pond Naravit Lertratkosum</b><br>
       "Thee" Theerakit Kian Lee<br>
     </td>
     <td width="110" valign="top">
       <img src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" width="101" height="142" alt="Phuwin Tangsakyuen">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">Phuwin Tangsakyuen</a></b><br>
+      <b>Phuwin Tangsakyuen</b><br>
       "Peach" Peachayarat Jane-kit<br>
     </td>
   </tr>
@@ -52,14 +52,14 @@ And that's when the hilarious romantic chaos begins. 😂❤️
        <img src="https://github.com/user-attachments/assets/caebd5e1-90a6-4a93-b2f0-4d0df32c84f8" width="101" height="142" alt="image" alt="Est Supha Sangaworawong">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">Est Supha Sangaworawong</a></b><br>
+      <b>Est Supha Sangaworawong</b><br>
       Mok<br>
     </td>
     <td width="110" valign="top">
       <img src="https://github.com/user-attachments/assets/81932ab2-8af2-4c5a-95ea-2202180e39df" width="101" height="142" alt="Bonnie Pattraphus Borattasuwan">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">Bonnie Pattraphus Borattasuwan</a></b><br>
+      <b>Bonnie Pattraphus Borattasuwan</b><br>
       "Lookplub" Panachakorn / "Plub"<br>
     </td>
   </tr>
@@ -68,14 +68,14 @@ And that's when the hilarious romantic chaos begins. 😂❤️
       <img src="https://github.com/user-attachments/assets/89250dbe-fb84-4743-a2cd-8498ba5e2e2c" width="101" height="142" alt="Perth Tanapon Sukumpantanasan">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">Perth Tanapon Sukumpantanasan</a></b><br>
+      <b>Perth Tanapon Sukumpantanasan</b><br>
       Tawan<br>
     </td>
     <td width="110" valign="top">
       <img src="https://github.com/user-attachments/assets/bd0ae693-8795-4d11-8993-66a9251d9837" width="101" height="142" alt="Santa Pongsapak Udompoch">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">Santa Pongsapak Udompoch</a></b><br>
+      <b>Santa Pongsapak Udompoch</b><br>
       Aran Sappanakul / "Ran"<br>
     </td>
   </tr>
@@ -84,14 +84,14 @@ And that's when the hilarious romantic chaos begins. 😂❤️
       <img src="https://github.com/user-attachments/assets/8a5d7391-7b0e-47cf-a2b5-74de26b88ca5" width="101" height="142" alt="JJ Chayakorn Jutamas">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">JJ Chayakorn Jutamas</a></b><br>
+      <b>JJ Chayakorn Jutamas</b><br>
       Note [Peach's Assistant]<br>
     </td>
     <td width="110" valign="top">
       <img src="https://github.com/user-attachments/assets/8b845023-b6ec-4995-97e3-d27eb5fcdf41" width="101" height="142" alt="Godji Tachakorn Boonlupyanun">
     </td>
     <td width="300" valign="top">
-      <b><a href="#">Godji Tachakorn Boonlupyanun</a></b><br>
+      <b>Godji Tachakorn Boonlupyanun</b><br>
       Nuch [Arseni Project Manager]<br>
     </td>
   </tr>
