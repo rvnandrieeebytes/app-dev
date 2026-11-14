@@ -16,7 +16,7 @@ But here's the twist...<br>
 As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the person he actually wants isn't *Aran* anymore.
 
 
-![*It's Peach himself!*](assets/peach-text.svg)
+![*It's Peach himself!*](assets/itspeach-text.svg)
 
 And that's when the hilarious romantic chaos begins. 😂❤️
 <br><br>
