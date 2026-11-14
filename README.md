@@ -26,24 +26,23 @@ And that's when the hilarious romantic chaos begins. 😂❤️
 ## Casts
 
 **Main Role**
-<table align="center">
+<table>
   <tr>
-    <th colspan="2" align="center">Main Role</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="101" height="142" alt="Pond Naravit Lertratkosum" src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" />
-      <br>
-      <b>Pond Naravit Lertratkosum</b>
-      <br>
-      as "Thee" <i>Theerakit Kian Lee</i>
+    <td width="110" valign="top">
+      <img src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" width="101" height="142" alt="Pond Naravit Lertratkosum">
     </td>
-    <td align="center" width="50%">
-      <img width="101" height="142" alt="Phuwin Tangsakyuen" src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" />
-      <br>
-      <b>Phuwin Tangsakyuen</b>
-      <br>
-      as "Peach" <i>Peachayarat Jane-kit</i>
+    <td width="300" valign="top">
+      <b><a href="#">Pond Naravit Lertratkosum</a></b><br>
+      "Thee" Theerakit Kian Lee<br>
+      <sub>Main Role</sub>
+    </td>
+    <td width="110" valign="top">
+      <img src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" width="101" height="142" alt="Phuwin Tangsakyuen">
+    </td>
+    <td width="300" valign="top">
+      <b><a href="#">Phuwin Tangsakyuen</a></b><br>
+      "Peach" Peachayarat Jane-kit<br>
+      <sub>Main Role</sub>
     </td>
   </tr>
 </table>
