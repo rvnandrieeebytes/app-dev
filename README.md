@@ -1,7 +1,7 @@
 # app-dev
 # My First Repository
 
-### Me and Thee
+### [Me and Thee](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
 
 ---
 
@@ -17,5 +17,3 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
 
 It's Peach himself!
 And that's when the hilarious romantic chaos begins. 😂❤️
-
-[title](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
