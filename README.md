@@ -14,8 +14,8 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="peach-dark.svg">
-  <img alt="It's Peach himself!" src="peach-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/peach-dark.svg">
+  <img alt="It's Peach himself!" src="assets/peach-light.svg">
 </picture><br>
 And that's when the hilarious romantic chaos begins. 😂❤️<br><br>
 
