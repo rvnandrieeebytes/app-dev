@@ -21,7 +21,7 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
   <img alt="It's Peach himself!" src="assets/peach-light.svg">
 </picture><br>
 And that's when the hilarious romantic chaos begins. 😂❤️
-
+<br><br>
 
 ## Casts
 
@@ -46,7 +46,8 @@ And that's when the hilarious romantic chaos begins. 😂❤️
     </td>
   </tr>
 </table>
-<br><br>
+<br>
+
 **Support Role**
 <table>
   <tr>
