@@ -3,8 +3,6 @@
 
 # [Me and Thee](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
 
----
-
 The story revolves around two very different men:
 
 1. **Thee** (*Pond Naravit*) – A wealthy businessman and eldest son of a former mafia family. He's confident, powerful, and used to getting whatever he wants. However, when it comes to romance, he's surprisingly clueless!
