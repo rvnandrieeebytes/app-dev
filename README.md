@@ -46,8 +46,6 @@ And that's when the hilarious romantic chaos begins. 😂❤️
 </table>
 
 **Support Role**
-<h2>Support Role</h2>
-
 <table>
   <tr>
     <td width="110" valign="top">
@@ -72,7 +70,6 @@ And that's when the hilarious romantic chaos begins. 😂❤️
     <td width="300" valign="top">
       <b><a href="#">Perth Tanapon Sukumpantanasan</a></b><br>
       Tawan<br>
-      <sub>Support Role</sub>
     </td>
     <td width="110" valign="top">
       <img src="https://github.com/user-attachments/assets/bd0ae693-8795-4d11-8993-66a9251d9837" width="101" height="142" alt="Santa Pongsapak Udompoch">
@@ -80,7 +77,6 @@ And that's when the hilarious romantic chaos begins. 😂❤️
     <td width="300" valign="top">
       <b><a href="#">Santa Pongsapak Udompoch</a></b><br>
       Aran Sappanakul / "Ran"<br>
-      <sub>Support Role</sub>
     </td>
   </tr>
   <tr>
@@ -89,16 +85,14 @@ And that's when the hilarious romantic chaos begins. 😂❤️
     </td>
     <td width="300" valign="top">
       <b><a href="#">JJ Chayakorn Jutamas</a></b><br>
-      Note [Peach's assistant]<br>
-      <sub>Support Role</sub>
+      Note [Peach's Assistant]<br>
     </td>
     <td width="110" valign="top">
       <img src="https://github.com/user-attachments/assets/8b845023-b6ec-4995-97e3-d27eb5fcdf41" width="101" height="142" alt="Godji Tachakorn Boonlupyanun">
     </td>
     <td width="300" valign="top">
       <b><a href="#">Godji Tachakorn Boonlupyanun</a></b><br>
-      Nuch [Arseni project manager]<br>
-      <sub>Support Role</sub>
+      Nuch [Arseni Project Manager]<br>
     </td>
   </tr>
 </table>
