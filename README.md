@@ -24,6 +24,10 @@ And that's when the hilarious romantic chaos begins. 😂❤️
 ## Casts
 
 **Main Role**
+|<img src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" width="101" alt="Pond Naravit Lertratkosum">|**Pond Naravit Lertratkosum**<br>"Thee" Theerakit Kian Lee|
+|:---:|:---:|
+|<img src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" width="101" alt="Phuwin Tangsakyuen">|**Phuwin Tangsakyuen**<br>"Peach" Peachayarat Jane-kit|
+
 <table>
   <tr>
     <td width="110" valign="top">
