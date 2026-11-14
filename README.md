@@ -19,4 +19,6 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
 </picture><br>
 And that's when the hilarious romantic chaos begins. 😂❤️<br><br>
 
-![Me and Thee](https://image.tmdb.org/t/p/original/thupyefOvjCpYjE6rI7ChGbniwi.jpg)
+<picture>
+  <img alt="Me and Thee" src="https://yt3.ggpht.com/rDuDbRlHo9M-tqvw1HbKfrFoSkhrdym14ulDzmAjjMW8e-t_4sX0db0Q3Kf2-mgznLLSWKA7yQX_=s0" width="200">
+</picture>
