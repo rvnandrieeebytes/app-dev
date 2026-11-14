@@ -4,8 +4,7 @@
   <img alt="Me and Thee" src="https://yt3.ggpht.com/rDuDbRlHo9M-tqvw1HbKfrFoSkhrdym14ulDzmAjjMW8e-t_4sX0db0Q3Kf2-mgznLLSWKA7yQX_=s0" width="600">
 </picture>
 
-> **Director**
-> <br>X Nuttapong Mongkolsawas
+**Director:** *X Nuttapong Mongkolsawas*
 
 The story revolves around two very different men:
 
