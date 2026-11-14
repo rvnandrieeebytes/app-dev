@@ -1,6 +1,5 @@
 > This is an unofficial fan project made for fun and entertainment only. It is not affiliated with, endorsed by, or sponsored by *Me and Thee* or its creators, producers, or distributors. All characters, names, images, and other related materials are the property of their respective owners. No copyright infringement is intended, and this project is not made for profit.
-# [Me and Thee](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
----
+# [Me and Thee มีสติหน่อยคุณธีร์](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
 The story revolves around two very different men:
 
 1.  **Thee** (*Pond Naravit*) – A wealthy businessman and eldest son of a former mafia family. He's confident, powerful, and used to getting whatever he wants. However, when it comes to romance, he's surprisingly clueless!
@@ -16,7 +15,12 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
   <source media="(prefers-color-scheme: dark)" srcset="assets/peach-dark.svg">
   <img alt="It's Peach himself!" src="assets/peach-light.svg">
 </picture><br>
-And that's when the hilarious romantic chaos begins. 😂❤️<br><br>
+And that's when the hilarious romantic chaos begins. 😂❤️
+
+**Casts**
+---
+| Main Role |
+| Pond Naravit Lertratkosum<br>as "Thee" *Theerakit Kian Lee* | Phuwin Tangsakyuen<br>as "Peach" *Peachayarat Jane-kit* |
 
 <picture>
   <img alt="Me and Thee" src="https://yt3.ggpht.com/rDuDbRlHo9M-tqvw1HbKfrFoSkhrdym14ulDzmAjjMW8e-t_4sX0db0Q3Kf2-mgznLLSWKA7yQX_=s0" width="600">
