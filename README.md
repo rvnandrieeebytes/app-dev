@@ -1,4 +1,5 @@
 # [Me and Thee](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
+---
 > This is an unofficial fan project made for fun and entertainment only. It is not affiliated with, endorsed by, or sponsored by *Me and Thee* or its creators, producers, or distributors. All characters, names, images, and other related materials are the property of their respective owners. No copyright infringement is intended, and this project is not made for profit.
 ---
 The story revolves around two very different men:
