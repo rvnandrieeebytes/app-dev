@@ -17,11 +17,11 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
 </picture><br>
 And that's when the hilarious romantic chaos begins. 😂❤️
 
-**Casts**
----
-| Main Role | |
+## Casts
+
+**Main Role**
 | :---: | :---: |
-| <img width="101" height="142" src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" /><br>**Pond Naravit Lertratkosum**<br>as "Thee" *Theerakit Kian Lee* | <img width="101" height="142" src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" /><br>**Phuwin Tangsakyuen**<br>as "Peach" *Peachayarat Jane-kit* |
+| <img width="101" height="142" src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" /><br>**Pond Naravit Lertratkosum**<br>as<br>"Thee"<br>*Theerakit Kian Lee* | <img width="101" height="142" src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" /><br>**Phuwin Tangsakyuen**<br>as<br>"Peach"<br>*Peachayarat Jane-kit* |
 
 <picture>
   <img alt="Me and Thee" src="https://yt3.ggpht.com/rDuDbRlHo9M-tqvw1HbKfrFoSkhrdym14ulDzmAjjMW8e-t_4sX0db0Q3Kf2-mgznLLSWKA7yQX_=s0" width="600">
