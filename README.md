@@ -24,86 +24,17 @@ And that's when the hilarious romantic chaos begins. 😂❤️
 ## Casts
 
 **Main Role**
-|<img src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" width="101" alt="Pond Naravit Lertratkosum">|**Pond Naravit Lertratkosum**<br>"Thee" Theerakit Kian Lee|
-|:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" width="101" alt="Phuwin Tangsakyuen">|**Phuwin Tangsakyuen**<br>"Peach" Peachayarat Jane-kit|
+| <img src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" width="101" alt="Pond Naravit Lertratkosum"> | **Pond Naravit Lertratkosum**<br>"Thee" Theerakit Kian Lee |
+|:---:|:---|
+| <img src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" width="101" alt="Phuwin Tangsakyuen"> | **Phuwin Tangsakyuen**<br>"Peach" Peachayarat Jane-kit |
 
-<table>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/18113e1f-c4ae-44f6-91f2-72a96e3293e3" width="101" alt="Pond Naravit Lertratkosum">
-    </td>
-    <td valign="middle">
-      <b>Pond Naravit Lertratkosum</b><br>
-      "Thee" Theerakit Kian Lee
-    </td>
-  </tr>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/e633cab7-c20a-4fdd-83d6-340cbbe5ab19" width="101" alt="Phuwin Tangsakyuen">
-    </td>
-    <td valign="middle">
-      <b>Phuwin Tangsakyuen</b><br>
-      "Peach" Peachayarat Jane-kit
-    </td>
-  </tr>
-</table>
 <br>
 
 **Support Role**
-<table>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/caebd5e1-90a6-4a93-b2f0-4d0df32c84f8" width="101" alt="Est Supha Sangaworawong">
-    </td>
-    <td valign="middle">
-      <b>Est Supha Sangaworawong</b><br>
-      Mok
-    </td>
-  </tr>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/81932ab2-8af2-4c5a-95ea-2202180e39df" width="101" alt="Bonnie Pattraphus Borattasuwan">
-    </td>
-    <td valign="middle">
-      <b>Bonnie Pattraphus Borattasuwan</b><br>
-      "Lookplub" Panachakorn / "Plub"
-    </td>
-  </tr>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/89250dbe-fb84-4743-a2cd-8498ba5e2e2c" width="101" alt="Perth Tanapon Sukumpantanasan">
-    </td>
-    <td valign="middle">
-      <b>Perth Tanapon Sukumpantanasan</b><br>
-      Tawan
-    </td>
-  </tr>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/bd0ae693-8795-4d11-8993-66a9251d9837" width="101" alt="Santa Pongsapak Udompoch">
-    </td>
-    <td valign="middle">
-      <b>Santa Pongsapak Udompoch</b><br>
-      Aran Sappanakul / "Ran"
-    </td>
-  </tr>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/8a5d7391-7b0e-47cf-a2b5-74de26b88ca5" width="101" alt="JJ Chayakorn Jutamas">
-    </td>
-    <td valign="middle">
-      <b>JJ Chayakorn Jutamas</b><br>
-      Note [Peach's Assistant]
-    </td>
-  </tr>
-  <tr>
-    <td width="110" valign="top">
-      <img src="https://github.com/user-attachments/assets/8b845023-b6ec-4995-97e3-d27eb5fcdf41" width="101" alt="Godji Tachakorn Boonlupyanun">
-    </td>
-    <td valign="middle">
-      <b>Godji Tachakorn Boonlupyanun</b><br>
-      Nuch [Arseni Project Manager]
-    </td>
-  </tr>
-</table>
+| <img src="https://github.com/user-attachments/assets/caebd5e1-90a6-4a93-b2f0-4d0df32c84f8" width="101" alt="Est Supha Sangaworawong"> | **Est Supha Sangaworawong**<br>Mok |
+|:---:|:---|
+| <img src="https://github.com/user-attachments/assets/81932ab2-8af2-4c5a-95ea-2202180e39df" width="101" alt="Bonnie Pattraphus Borattasuwan"> | **Bonnie Pattraphus Borattasuwan**<br>"Lookplub" Panachakorn / "Plub" |
+| <img src="https://github.com/user-attachments/assets/89250dbe-fb84-4743-a2cd-8498ba5e2e2c" width="101" alt="Perth Tanapon Sukumpantanasan"> | **Perth Tanapon Sukumpantanasan**<br>Tawan |
+| <img src="https://github.com/user-attachments/assets/bd0ae693-8795-4d11-8993-66a9251d9837" width="101" alt="Santa Pongsapak Udompoch"> | **Santa Pongsapak Udompoch**<br>Aran Sappanakul / "Ran" |
+| <img src="https://github.com/user-attachments/assets/8a5d7391-7b0e-47cf-a2b5-74de26b88ca5" width="101" alt="JJ Chayakorn Jutamas"> | **JJ Chayakorn Jutamas**<br>Note [Peach's Assistant] |
+| <img src="https://github.com/user-attachments/assets/8b845023-b6ec-4995-97e3-d27eb5fcdf41" width="101" alt="Godji Tachakorn Boonlupyanun"> | **Godji Tachakorn Boonlupyanun**<br>Nuch [Arseni Project Manager] |
