@@ -1,5 +1,5 @@
 # My First Repository
-> This is an unofficial fan project made for fun and entertainment only. It is not affiliated with, endorsed by, or sponsored by [Series Name] or its creators, producers, or distributors. All characters, names, images, and other related materials are the property of their respective owners. No copyright infringement is intended, and this project is not made for profit.
+> 𝔗𝔥𝔦𝔰 𝔦𝔰 𝔞𝔫 𝔲𝔫𝔬𝔣𝔣𝔦𝔠𝔦𝔞𝔩 𝔣𝔞𝔫 𝔭𝔯𝔬𝔧𝔢𝔠𝔱 𝔪𝔞𝔡𝔢 𝔣𝔬𝔯 𝔣𝔲𝔫 𝔞𝔫𝔡 𝔢𝔫𝔱𝔢𝔯𝔱𝔞𝔦𝔫𝔪𝔢𝔫𝔱 𝔬𝔫𝔩𝔶. ℑ𝔱 𝔦𝔰 𝔫𝔬𝔱 𝔞𝔣𝔣𝔦𝔩𝔦𝔞𝔱𝔢𝔡 𝔴𝔦𝔱𝔥, 𝔢𝔫𝔡𝔬𝔯𝔰𝔢𝔡 𝔟𝔶, 𝔬𝔯 𝔰𝔭𝔬𝔫𝔰𝔬𝔯𝔢𝔡 𝔟𝔶 "𝔐𝔢 𝔞𝔫𝔡 𝔗𝔥𝔢𝔢" 𝔬𝔯 𝔦𝔱𝔰 𝔠𝔯𝔢𝔞𝔱𝔬𝔯𝔰, 𝔭𝔯𝔬𝔡𝔲𝔠𝔢𝔯𝔰, 𝔬𝔯 𝔡𝔦𝔰𝔱𝔯𝔦𝔟𝔲𝔱𝔬𝔯𝔰. 𝔄𝔩𝔩 𝔠𝔥𝔞𝔯𝔞𝔠𝔱𝔢𝔯𝔰, 𝔫𝔞𝔪𝔢𝔰, 𝔦𝔪𝔞𝔤𝔢𝔰, 𝔞𝔫𝔡 𝔬𝔱𝔥𝔢𝔯 𝔯𝔢𝔩𝔞𝔱𝔢𝔡 𝔪𝔞𝔱𝔢𝔯𝔦𝔞𝔩𝔰 𝔞𝔯𝔢 𝔱𝔥𝔢 𝔭𝔯𝔬𝔭𝔢𝔯𝔱𝔶 𝔬𝔣 𝔱𝔥𝔢𝔦𝔯 𝔯𝔢𝔰𝔭𝔢𝔠𝔱𝔦𝔳𝔢 𝔬𝔴𝔫𝔢𝔯𝔰. 𝔑𝔬 𝔠𝔬𝔭𝔶𝔯𝔦𝔤𝔥𝔱 𝔦𝔫𝔣𝔯𝔦𝔫𝔤𝔢𝔪𝔢𝔫𝔱 𝔦𝔰 𝔦𝔫𝔱𝔢𝔫𝔡𝔢𝔡, 𝔞𝔫𝔡 𝔱𝔥𝔦𝔰 𝔭𝔯𝔬𝔧𝔢𝔠𝔱 𝔦𝔰 𝔫𝔬𝔱 𝔪𝔞𝔡𝔢 𝔣𝔬𝔯 𝔭𝔯𝔬𝔣𝔦𝔱.
 # [Me and Thee](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
 
 The story revolves around two very different men:
