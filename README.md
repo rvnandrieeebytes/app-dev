@@ -19,7 +19,7 @@ And that's when the hilarious romantic chaos begins. 😂❤️
 
 **Casts**
 ---
-|  Main Role  |             |
+|  Main Role  |             
 | ----------- | ----------- |
 | Pond Naravit Lertratkosum<br>as "Thee" *Theerakit Kian Lee* | Phuwin Tangsakyuen<br>as "Peach" *Peachayarat Jane-kit* |
 
