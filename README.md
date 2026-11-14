@@ -15,6 +15,6 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=1&pause=999999&color=FFE5B4&center=false&vCenter=true&width=500&lines=It's+Peach+himself!" />
-And that's when the hilarious romantic chaos begins. 😂❤️
-<br>
+And that's when the hilarious romantic chaos begins. 😂❤️<br>
+
 ![Me and Thee](https://image.tmdb.org/t/p/original/thupyefOvjCpYjE6rI7ChGbniwi.jpg)
