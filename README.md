@@ -3,7 +3,7 @@
 # [Me and Thee มีสติหน่อยคุณธีร์](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
 ![Me and Thee](https://yt3.ggpht.com/rDuDbRlHo9M-tqvw1HbKfrFoSkhrdym14ulDzmAjjMW8e-t_4sX0db0Q3Kf2-mgznLLSWKA7yQX_=s0)
 
-**Director:** *X Nuttapong Mongkolsawas*
+**Director:**   *X Nuttapong Mongkolsawas*
 
 The story revolves around two very different men:
 
