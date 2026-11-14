@@ -14,7 +14,7 @@ But here's the twist...
 As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the person he actually wants isn't *Aran* anymore.
 
 
-It's $$\color{green}{\text{***Peach***}}$$ himself!
+It's <strong><em><span style="color: #FFE5B4;">Peach</span></em></strong> himself!
 And that's when the hilarious romantic chaos begins. 😂❤️
 
 ![Me and Thee](https://image.tmdb.org/t/p/original/thupyefOvjCpYjE6rI7ChGbniwi.jpg)
