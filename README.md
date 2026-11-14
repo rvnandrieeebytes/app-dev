@@ -17,4 +17,4 @@ As *Peach* teaches *Thee* about romance, *Thee* gradually realizes that the pers
 It's $$\color{green}{\text{***Peach***}}$$ himself!
 And that's when the hilarious romantic chaos begins. 😂❤️
 
-![alt text]([image.jpg](https://image.tmdb.org/t/p/original/thupyefOvjCpYjE6rI7ChGbniwi.jpg))
+![Me and Thee](https://image.tmdb.org/t/p/original/thupyefOvjCpYjE6rI7ChGbniwi.jpg)
