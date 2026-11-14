@@ -105,4 +105,5 @@ And that's when the hilarious romantic chaos begins. 😂❤️
 </table>
 <br>
 
-> **มีสติหน่อยคุณธีร์**<br>*Get a grip, Khun Thee!*
+---
+**มีสติหน่อยคุณธีร์**<br>*Get a grip, Khun Thee!*
