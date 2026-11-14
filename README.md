@@ -1,5 +1,5 @@
 <!-- I also wanna add HTML for fun! -->
-> ⚠ Disclaimer: This is an unofficial, non-commercial fan project made for academic and entertainment purposes only. It is not affiliated with, endorsed by, or sponsored by ***Me and Thee*** or its creators, producers, or distributors. All characters, names, images, and related materials belong to their respective owners. This project is free and generates no profit. If you are a rights holder and have any concerns, please contact ***reivenandrieofficial@gmail.com*** and I will respond promptly.
+> ⚠ **Disclaimer:** This is an unofficial, non-commercial fan project made for academic and entertainment purposes only. It is not affiliated with, endorsed by, or sponsored by ***Me and Thee*** or its creators, producers, or distributors. All characters, names, images, and related materials belong to their respective owners. This project is free and generates no profit. If you are a rights holder and have any concerns, please contact ***reivenandrieofficial@gmail.com*** and I will respond promptly.
 # [Me and Thee มีสติหน่อยคุณธีร์](https://www.iq.com/album/me-and-thee-2025-g78hiyaxxh?lang=en_us)
 ![Me and Thee](https://yt3.ggpht.com/rDuDbRlHo9M-tqvw1HbKfrFoSkhrdym14ulDzmAjjMW8e-t_4sX0db0Q3Kf2-mgznLLSWKA7yQX_=s0)
 
